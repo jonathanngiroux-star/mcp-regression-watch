@@ -12,3 +12,6 @@ env/
 .DS_Store
 *.swp
 *.swo
+
+# runtime state (persisted JSON, not source)
+state/*.json
